@@ -10,6 +10,6 @@
       "lib": ["dom", "es5", "es6", "es2017", "es2015.promise"],
       "outDir": "./build"
     },
-    "include": ["*.ts"],
+    "include": ["./lib/*.ts"],
     "exclude": ["node_modules"]
   }
